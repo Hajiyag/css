@@ -2,3 +2,5 @@
     "exclude": [
         ".*",
         "node_modules/**"
+    ],
+    "always-semicolon": true
