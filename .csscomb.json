@@ -5,3 +5,4 @@
     ],
     "always-semicolon": true
     "block-indent": true,
+    "colon-space": true,
