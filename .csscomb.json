@@ -6,3 +6,4 @@
     "always-semicolon": true
     "block-indent": true,
     "colon-space": true,
+    "color-case": "lower",
