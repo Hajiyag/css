@@ -7,3 +7,4 @@
     "block-indent": true,
     "colon-space": true,
     "color-case": "lower",
+    "leading-zero": false,
