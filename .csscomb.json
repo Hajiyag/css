@@ -9,3 +9,4 @@
     "color-case": "lower",
     "leading-zero": false,
     "rule-indent": true,
+    "stick-brace": "\n",
