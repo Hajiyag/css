@@ -45,3 +45,4 @@
             "overflow",
             "overflow-x",
             "overflow-y",
+            "-ms-overflow-x",
