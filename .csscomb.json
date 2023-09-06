@@ -48,3 +48,4 @@
             "-ms-overflow-x",
             "-ms-overflow-y",
             "clip",
+            "zoom",
