@@ -49,3 +49,4 @@
             "-ms-overflow-y",
             "clip",
             "zoom",
+            "flex-direction",
