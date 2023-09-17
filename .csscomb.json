@@ -56,3 +56,4 @@
         ],
         [
             "-webkit-box-sizing",
+            "-moz-box-sizing",
