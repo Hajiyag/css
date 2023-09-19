@@ -58,3 +58,4 @@
             "-webkit-box-sizing",
             "-moz-box-sizing",
             "box-sizing",
+            "width",
