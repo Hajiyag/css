@@ -93,3 +93,4 @@
             "counter-increment",
             "resize",
             "cursor",
+            "-webkit-user-select",
