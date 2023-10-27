@@ -94,3 +94,4 @@
             "resize",
             "cursor",
             "-webkit-user-select",
+            "-moz-user-select",
