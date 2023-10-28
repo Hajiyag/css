@@ -95,3 +95,4 @@
             "cursor",
             "-webkit-user-select",
             "-moz-user-select",
+            "-ms-user-select",
