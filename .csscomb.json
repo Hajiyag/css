@@ -102,3 +102,4 @@
             "nav-right",
             "nav-down",
             "nav-left",
+            "-webkit-transition",
