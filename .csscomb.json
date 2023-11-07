@@ -103,3 +103,4 @@
             "nav-down",
             "nav-left",
             "-webkit-transition",
+            "-moz-transition",
