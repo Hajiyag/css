@@ -104,3 +104,4 @@
             "nav-left",
             "-webkit-transition",
             "-moz-transition",
+            "-ms-transition",
