@@ -105,3 +105,4 @@
             "-webkit-transition",
             "-moz-transition",
             "-ms-transition",
+            "-o-transition",
