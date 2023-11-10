@@ -106,3 +106,4 @@
             "-moz-transition",
             "-ms-transition",
             "-o-transition",
+            "transition",
