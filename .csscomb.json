@@ -107,3 +107,4 @@
             "-ms-transition",
             "-o-transition",
             "transition",
+            "-webkit-transition-delay",
