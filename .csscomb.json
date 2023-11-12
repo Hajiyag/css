@@ -108,3 +108,4 @@
             "-o-transition",
             "transition",
             "-webkit-transition-delay",
+            "-moz-transition-delay",
