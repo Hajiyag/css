@@ -109,3 +109,4 @@
             "transition",
             "-webkit-transition-delay",
             "-moz-transition-delay",
+            "-ms-transition-delay",
