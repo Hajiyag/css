@@ -111,3 +111,4 @@
             "-moz-transition-delay",
             "-ms-transition-delay",
             "-o-transition-delay",
+            "transition-delay",
