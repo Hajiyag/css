@@ -112,3 +112,4 @@
             "-ms-transition-delay",
             "-o-transition-delay",
             "transition-delay",
+            "-webkit-transition-timing-function",
