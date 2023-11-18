@@ -114,3 +114,4 @@
             "transition-delay",
             "-webkit-transition-timing-function",
             "-moz-transition-timing-function",
+            "-ms-transition-timing-function",
