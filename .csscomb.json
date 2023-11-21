@@ -117,3 +117,4 @@
             "-ms-transition-timing-function",
             "-o-transition-timing-function",
             "transition-timing-function",
+            "-webkit-transition-duration",
