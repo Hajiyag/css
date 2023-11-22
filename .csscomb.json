@@ -118,3 +118,4 @@
             "-o-transition-timing-function",
             "transition-timing-function",
             "-webkit-transition-duration",
+            "-moz-transition-duration",
