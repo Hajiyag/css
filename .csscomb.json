@@ -119,3 +119,4 @@
             "transition-timing-function",
             "-webkit-transition-duration",
             "-moz-transition-duration",
+            "-ms-transition-duration",
