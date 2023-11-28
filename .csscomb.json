@@ -123,3 +123,4 @@
             "-o-transition-duration",
             "transition-duration",
             "-webkit-transition-property",
+            "-moz-transition-property",
