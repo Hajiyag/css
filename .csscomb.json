@@ -125,3 +125,4 @@
             "-webkit-transition-property",
             "-moz-transition-property",
             "-ms-transition-property",
+            "-o-transition-property",
