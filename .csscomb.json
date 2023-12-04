@@ -127,3 +127,4 @@
             "-ms-transition-property",
             "-o-transition-property",
             "transition-property",
+            "-webkit-transform",
